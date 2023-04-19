@@ -1,3 +1,5 @@
+//SHIVAM RAI MADE THIS PROJECT>>>
+
 (function(window, document) {
 
 // change this to relative path (relative to script) or to absolute path
