@@ -37,7 +37,7 @@
 
 -----------
 ## Running `Spider-Man
-https://github.com/saurabhp0007/spiderman-game
+https://github.com/shivammmrai/Spider-Man-Game-
 
 ### Running `offline`
 
